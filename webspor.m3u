@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="selcukspor bein 1" group-title="Spor"
+#EXTINF:-1 group-title="Spor",SELCUKSPORTS BEİN 1
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukobs1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="trgoool tv bein 1" group-title="Spor"
+#EXTINF:-1 group-title="Spor",corespor bein 1
 https://hlssssssss.verdimdalgayihocam.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xspor tv bein 1" group-title="Spor"
+#EXTINF:-1 group-title="Spor",xspor bein 1
 https://dga1op10s1u3lep.eaf7037ecd540a.click/live/selcukobs1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.xsportv45.xyz/
