@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="YAYINZİRVE",BEİN 1
-#EXTVLCOPT:http-origin=https://t24giris2.cfd
+#EXTVLCOPT:http-header=Origin:https://t24giris2.cfd
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 #EXTVLCOPT:htpp-header=Referrer:https://t24giris2.cfd/
 https://eight.04bf112a615942b28.sbs/yayinzirve.m3u8
